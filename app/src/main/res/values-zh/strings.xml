@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">台北YouBike</string>
+    <string name="title_activity_maps">Taipei YouBike</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tot">總停車格:</string>
+    <string name="sbi">可借車:</string>
+    <string name="lossNavigation">失去定位</string>
+    <string name="gpspositioning">GPS定位中...</string>
+    <string name="Networkstatusisabnormal">網路狀態異常</string>
+    <string name="Pleasecheckyournetworkconnectionstatus">請檢查網路連線狀態</string>
+    <string name="refresh">重新整理中...</string>
+    <string name="refreshtime">更新時間:</string>
+</resources>

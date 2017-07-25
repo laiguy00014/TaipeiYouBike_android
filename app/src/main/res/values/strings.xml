@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taipei YouBike</string>
+    <string name="title_activity_maps">Taipei YouBike</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tot">total:</string>
+    <string name="sbi">available:</string>
+    <string name="lossNavigation">Lose positioning</string>
+    <string name="gpspositioning">GPS positioning...</string>
+    <string name="Networkstatusisabnormal">Network status is abnormal</string>
+    <string name="Pleasecheckyournetworkconnectionstatus">Please check your network connection status</string>
+    <string name="refresh">refreshing...</string>
+    <string name="refreshtime">Update time:</string>
+</resources>
